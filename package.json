@@ -1,0 +1,21 @@
+{
+  "name": "ForUnity-theme",
+  "displayName": "ForUnity",
+  "description": "Unity theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ForUnity-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ForUnity-theme-color-theme.json"
+      }
+    ]
+  }
+}
