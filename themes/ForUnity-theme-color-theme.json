@@ -1,7 +1,7 @@
 {
 	"name": "ForUnity-theme",
 	"colors": {
-		"editor.background": "#535353",
+		"editor.background": "#2b2b2b",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
@@ -156,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#d3bc7e"
 			}
 		},
 		// {
